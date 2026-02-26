@@ -1,3 +1,3 @@
 # CRUD-intern
 
-## Arnur Marat's Aitusa Internal Stage Project
+## Arnur Marat's Aitusa Intern Stage Project
